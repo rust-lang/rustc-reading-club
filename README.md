@@ -1,2 +1,3 @@
-# rustc
-Rust Code Reading Clubs
+# Rust Code Reading Clubs
+
+## rustc edition
