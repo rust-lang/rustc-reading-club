@@ -1,6 +1,6 @@
 name: Organizer Request
 description: File a request to the organizers
-title: "[Topic]: "
+title: "[Request]: "
 labels: ["organizer"]
 assignees:
   - rustc
