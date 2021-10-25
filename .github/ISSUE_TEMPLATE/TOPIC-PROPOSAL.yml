@@ -7,8 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to offer a topic proposal!
+      value: Thanks for taking the time to offer a topic proposal!
   - type: input
     id: contact
     attributes:
@@ -26,7 +25,7 @@ body:
       value:  
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     id: code
     attributes:
       label: Relevant code file URL
