@@ -4,7 +4,7 @@ title: "[Request]: "
 labels: ["organizer"]
 assignees:
   - rustc
-  body:
+body:
   - type: markdown
     attributes:
       value: |
