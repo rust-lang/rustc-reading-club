@@ -1,0 +1,35 @@
+name: Organizer Request
+description: File a request to the organizers
+title: "[Topic]: "
+labels: ["organizer"]
+assignees:
+  - rustc
+body:
+  - type: markdown
+    attributes:
+      value: Complete this form to make request(s) of the organizers.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info? You aren't required to provide your email address. It's an option if you would like to use it.
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: request
+    attributes:
+      label: organizer request
+      description: Please provide a detailed description of your request.
+      placeholder: 
+      value:  
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
