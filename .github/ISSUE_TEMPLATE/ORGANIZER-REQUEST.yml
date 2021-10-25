@@ -4,10 +4,10 @@ title: "[Request]: "
 labels: ["organizer"]
 assignees:
   - rustc
-body:
+  body:
   - type: markdown
     attributes:
-    value: |
+      value: |
         Complete this form to make request(s) of the organizers.
   - type: input
     id: contact
