@@ -30,9 +30,10 @@ body:
     attributes:
       label: Relevant code file URL
       description: Please provide a link to the module.
-      options:
-        - label: Providing the URL to the code for your topic is required.
-          required: true
+      placeholder: 
+      value:  
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
