@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: request
     attributes:
-      label: organizer request
+      label: Organizer Request
       description: Please provide a detailed description of your request.
       placeholder: 
       value:  
@@ -35,4 +35,3 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true
 
-          
