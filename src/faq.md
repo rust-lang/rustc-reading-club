@@ -35,8 +35,7 @@ Yes! File PRs to extend the [Rustc Dev Guide](https://github.com/rust-lang/rustc
 
 Great! [File an issue] on our repository.
 
-[file an issue]: https://github.com/rust-code-reading-club/rustc/issues/new
-
+[file an issue]: https://github.com/rust-code-reading-club/rustc/issues/new/choose
 ## I want to help organize! Can I help?
 
 So excited! Ping us on Zulip.
