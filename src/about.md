@@ -15,3 +15,4 @@ We'll be following a "semi-structured" reading process:
 
 The meetings will *not* be recorded, but they will be open to anyone. ≥The first meeting of the Rustc Reading Club will be **November 4th, 2021 at 12:00pm US Eastern time**. Hope to see you there!
 
+[rustc]: https://github.com/rust-lang/rust/
