@@ -13,5 +13,5 @@ We'll be following a "semi-structured" reading process:
 * Identify the most important functions and their purpose.
 * Dig into how a few of those functions are actually implemented.
 
-The meetings will *not* be recorded, but they will be open to anyone. ≥The first meeting of the Rustc Reading Club will be **November 4th, 2021 at 12:00pm US Eastern time**. Hope to see you there!
+The meetings will *not* be recorded, but they will be open to anyone. The first meeting of the Rustc Reading Club will be **November 4th, 2021 at 12:00pm US Eastern time**. Hope to see you there!
 
