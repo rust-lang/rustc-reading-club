@@ -2,10 +2,12 @@
 
 ## Who organizes the Rustc Reading Club?
 
-[doc-jones] and [nikomatsakis].
-
 [doc-jones]: https://github.com/doc-jones
 [nikomatsakis]: https://github.com/nikomatsakis
+[rustc dev guide]: https://rustc-dev-guide.rust-lang.org/
+[file an issue]: https://github.com/rust-code-reading-club/rustc/issues/new/choose
+
+[doc-jones] and [nikomatsakis].
 
 ## What level of experience should I have to attend?
 
@@ -25,19 +27,16 @@ No. A compiler is just a program. If you've written programs before, you are def
 
 ## Are there ways for me to get good background knowledge about rustc before I attend?
 
-Yes! Check out the [Rustc Dev Guide](https://rustc-dev-guide.rust-lang.org/).
+Yes! Check out the [Rustc Dev Guide].
 
 ## I'm learning so much! Are there ways for me to give back and help others?
 
-Yes! File PRs to extend the [Rustc Dev Guide](https://github.com/rust-lang/rustc-dev-guide).
+Yes! File PRs to extend the [Rustc Dev Guide].
 
 ## I have some ideas for code to read!
 
 Great! [File an issue] on our repository.
 
-[file an issue]: https://github.com/rust-code-reading-club/rustc/issues/new/choose
 ## I want to help organize! Can I help?
 
 So excited! Ping us on Zulip.
-
-

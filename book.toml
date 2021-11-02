@@ -1,5 +1,5 @@
 [book]
-authors = ["Doc Jones"]
+authors = ["Doc Jones", "Niko Matsakis", "Chaz Kiker"]
 language = "en"
 multilingual = false
 src = "src"
