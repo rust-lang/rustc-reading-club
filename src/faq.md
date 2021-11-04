@@ -38,6 +38,4 @@ Great! [File an issue] on our repository.
 [file an issue]: https://github.com/rust-code-reading-club/rustc/issues/new/choose
 ## I want to help organize! Can I help?
 
-So excited! Ping us on Zulip.
-
-
+So excited! Ping us on [Zulip](https://rust-lang.zulipchat.com/#narrow/stream/305296-rustc-reading-club/).

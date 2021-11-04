@@ -1,10 +1,8 @@
 # What is this?
 
-[rustc]: https://github.com/rust-lang/rust
-
 Ever wanted to understand how [rustc] works? **This club is for you!** Inspired by the very cool [Code Reading Club](https://code-reading.org/), the idea is to get together every few weeks and just spend some time reading the code in [rustc] or other related projects.
 
-
+[rustc]: https://github.com/rust-lang/rust
 
 The way this club works is pretty simple: every other week, we'll get together for 90 minutes and read some part of rustc (or some project related to rustc), and talk about it. Our goal is to walk away with a high-level understanding of how that code works. For more complex parts of the code, we may wind up spending multiple sessions on the same code.
 
