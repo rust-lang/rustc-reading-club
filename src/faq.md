@@ -7,6 +7,12 @@
 [doc-jones]: https://github.com/doc-jones
 [nikomatsakis]: https://github.com/nikomatsakis
 
+## Why not record?
+
+Important that people feel able to ask whatever question they want without that being posted.
+
+This is not the kind of event you want to watch anyway, trust me, it's not going to be a coherent presentation.
+
 ## What level of experience should I have to attend?
 
 You should be reasonably familiar with Rust syntax. You don't have to be an expert on every corner of the language (although learning about the compiler can definitely help to *make* you an expert).
@@ -22,6 +28,10 @@ No, you should not. The whole point of this club is for all of us to learn how r
 ## I've never written any kind of compiler before. Should I be scared to attend?
 
 No. A compiler is just a program. If you've written programs before, you are definitely welcome to attend. Feel free to ask questions, too.
+
+## "Is it ok if I just show up and listen?"
+
+Yes, definitely, you will learn a lot, but be aware it's not going to be a coherent presentation with slides.
 
 ## Are there ways for me to get good background knowledge about rustc before I attend?
 
